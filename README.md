@@ -27,9 +27,9 @@ I use **Claude Code** as an AI coding agent while I own the architecture, code r
 
 ### 🧰 Tech
 
-**Languages:** Python · JavaScript · Java · SQL · GDScript
-**Frameworks and tools:** Godot 4 · React Native / Expo · SQLite · Supabase · Docker · Git · GitHub Actions · Codemagic · EAS Build
-**AI:** Claude Code · agentic workflows · prompt engineering · MCP
+- **Languages:** Python · JavaScript · Java · SQL · GDScript
+- **Frameworks and tools:** Godot 4 · React Native / Expo · SQLite · Supabase · Docker · Git · GitHub Actions · Codemagic · EAS Build
+- **AI:** Claude Code · agentic workflows · prompt engineering · MCP
 
 ### 📫 Contact
 
